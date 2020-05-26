@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2c85e287-93f6-48ff-b12d-0dc45c677a75" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="D:\Go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1c9bk3dzTPiBgZJSNLnGrubddvH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="false" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="two.files.diff.last.used.folder" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Peng.Gao\GolandProjects\LearnGoProject\src\ch1\dup2" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Peng.Gao\GolandProjects\LearnGoProject\src\ch1\dup4" />
+      <recent name="C:\Users\Peng.Gao\GolandProjects\LearnGoProject\src\ch1\helloworld" />
+      <recent name="C:\Users\Peng.Gao\GolandProjects\LearnGoProject\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Build.go build main.go">
+    <configuration name="GoRunner" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="LearnGoProject" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <go_parameters value="-i" />
+      <kind value="DIRECTORY" />
+      <filePath value="$PROJECT_DIR$/" />
+      <directory value="$PROJECT_DIR$/src" />
+      <output_directory value="$PROJECT_DIR$/bin" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="LearnGoProject" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/src/ch1/dup1/main.go" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Go Build.GoRunner" />
+      <item itemvalue="Go Build.go build main.go" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build main.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="711" y="199" key="#Deployment" timestamp="1590477654076">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="711" y="199" key="#Deployment/0.0.1920.1050@0.0.1920.1050" timestamp="1590477654076" />
+    <state x="983" y="204" key="#GoRunner" timestamp="1590372401545">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="983" y="204" key="#GoRunner/0.0.1920.1050@0.0.1920.1050" timestamp="1590372401545" />
+    <state x="695" y="186" key="#SSH_Configurations" timestamp="1590477319415">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="695" y="186" key="#SSH_Configurations/0.0.1920.1050@0.0.1920.1050" timestamp="1590477319415" />
+    <state x="741" y="235" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590476659393">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="741" y="235" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1590476659393" />
+    <state x="1044" y="366" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1590473597885">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="1044" y="366" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1590473597885" />
+    <state x="761" y="305" key="#com.intellij.tools.ToolEditorDialog" timestamp="1590477013353">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="761" y="305" key="#com.intellij.tools.ToolEditorDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1590477013353" />
+    <state x="519" y="141" width="1200" height="800" key="DiffContextDialog" timestamp="1590477410705">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="519" y="141" width="1200" height="800" key="DiffContextDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1590477410705" />
+    <state x="519" y="141" width="1200" height="800" key="DirDiffDialog" timestamp="1590477885981">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="519" y="141" width="1200" height="800" key="DirDiffDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1590477885981" />
+    <state x="778" y="282" key="FileChooserDialogImpl" timestamp="1590484298266">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="778" y="282" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1590484298266" />
+    <state width="1340" height="266" key="GridCell.Tab.0.bottom" timestamp="1590483735656">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1340" height="266" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1590483735656" />
+    <state width="1340" height="266" key="GridCell.Tab.0.center" timestamp="1590483735656">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1340" height="266" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1590483735656" />
+    <state width="1340" height="266" key="GridCell.Tab.0.left" timestamp="1590483735656">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1340" height="266" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1590483735656" />
+    <state width="1340" height="266" key="GridCell.Tab.0.right" timestamp="1590483735656">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1340" height="266" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1590483735656" />
+    <state x="499" y="172" key="SettingsEditor" timestamp="1590485670475">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="499" y="172" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1590485670475" />
+    <state x="949" y="225" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1590474976481">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="949" y="225" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1590474976481" />
+    <state x="850" y="462" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1590485734157">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="850" y="462" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1050@0.0.1920.1050" timestamp="1590485734157" />
+    <state x="857" y="456" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1590485718196">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="857" y="456" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1590485718196" />
+  </component>
+</project>
